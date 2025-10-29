@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related QA APIs"
   contactDetails:
     name: "Anshu - QA Lead"
-    email: "anshu@gmail.com"
+    email: "{cipher}e3fc6d1237e01d55c61a07447e3c14f07db3dc5d8cf8f3fb14bff74b08808633"
   onCallSupport:
     - (666) 555-1234
     - (666) 523-1345
