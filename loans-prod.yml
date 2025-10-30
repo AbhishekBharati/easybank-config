@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Eazybank Loans related production API's"
+  message: "Welcome to Eazybank Loans related Prod API's"
   contactDetails:
     name: "Darshan Product Owner"
     email: "darsh@gmail.com"
